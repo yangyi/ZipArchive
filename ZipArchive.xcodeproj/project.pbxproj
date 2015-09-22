@@ -13,7 +13,7 @@
 		A527EDC41B527FD000CA3DAF /* mztools.c in Headers */ = {isa = PBXBuildFile; fileRef = A5D15D081B51A44C00929105 /* mztools.c */; };
 		A527EDC51B527FD000CA3DAF /* mztools.h in Headers */ = {isa = PBXBuildFile; fileRef = A5D15D091B51A44C00929105 /* mztools.h */; };
 		A527EDC61B527FD000CA3DAF /* unzip.c in Headers */ = {isa = PBXBuildFile; fileRef = A5D15D0A1B51A44C00929105 /* unzip.c */; };
-		A527EDC71B527FD000CA3DAF /* unzip.h in Headers */ = {isa = PBXBuildFile; fileRef = A5D15D0B1B51A44C00929105 /* unzip.h */; };
+		A527EDC71B527FD000CA3DAF /* unzip.h in Headers */ = {isa = PBXBuildFile; fileRef = A5D15D0B1B51A44C00929105 /* unzip.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A527EDC81B527FD000CA3DAF /* zip.c in Headers */ = {isa = PBXBuildFile; fileRef = A5D15D0C1B51A44C00929105 /* zip.c */; };
 		A527EDC91B527FD000CA3DAF /* zip.h in Headers */ = {isa = PBXBuildFile; fileRef = A5D15D0D1B51A44C00929105 /* zip.h */; };
 		A527EDCA1B52804E00CA3DAF /* crypt.h in Sources */ = {isa = PBXBuildFile; fileRef = A5D15D051B51A44C00929105 /* crypt.h */; };
@@ -302,13 +302,13 @@
 			files = (
 				A5D15CC31B51A38C00929105 /* ZipArchive.h in Headers */,
 				A53101811B5284E200FA26EA /* Main.h in Headers */,
+				A527EDC71B527FD000CA3DAF /* unzip.h in Headers */,
 				A527EDC11B527FD000CA3DAF /* crypt.h in Headers */,
 				A527EDC21B527FD000CA3DAF /* ioapi.c in Headers */,
 				A527EDC31B527FD000CA3DAF /* ioapi.h in Headers */,
 				A527EDC41B527FD000CA3DAF /* mztools.c in Headers */,
 				A527EDC51B527FD000CA3DAF /* mztools.h in Headers */,
 				A527EDC61B527FD000CA3DAF /* unzip.c in Headers */,
-				A527EDC71B527FD000CA3DAF /* unzip.h in Headers */,
 				A527EDC81B527FD000CA3DAF /* zip.c in Headers */,
 				A527EDC91B527FD000CA3DAF /* zip.h in Headers */,
 				A5D15D451B51D64200929105 /* Main.m in Headers */,
